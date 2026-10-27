@@ -1,0 +1,9 @@
+{
+  "frameCount": 120,
+  "fps": 20,
+  "video": "/media/hero.mp4",
+  "pattern": "/media/frames/frame-{index}.webp",
+  "source": "Higgsfield Seedance 2.5",
+  "aiGenerated": true,
+  "jobId": "0da59660-78a9-4caa-be45-7f78bcc5fb5d"
+}

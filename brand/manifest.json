@@ -1,0 +1,94 @@
+{
+  "source": "User supplied original brand files, 27 October 2026",
+  "assets": [
+    {
+      "file": "/brand/nehaluz-emblem.webp",
+      "source": "WhatsApp Image 2026-10-27 at 12.56.30.jpeg",
+      "originalSize": [
+        1708,
+        1544
+      ],
+      "size": [
+        1200,
+        1085
+      ],
+      "bytes": 228244,
+      "processing": "Exif orientation, proportional resize, WebP encoding only. No crop, retouch, recolor or generated pixels."
+    },
+    {
+      "file": "/brand/nehaluz-emblem-dark.webp",
+      "source": "WhatsApp Image 2026-10-27 at 12.56.30 (1).jpeg",
+      "originalSize": [
+        1708,
+        1544
+      ],
+      "size": [
+        1200,
+        1085
+      ],
+      "bytes": 201110,
+      "processing": "Exif orientation, proportional resize, WebP encoding only. No crop, retouch, recolor or generated pixels."
+    },
+    {
+      "file": "/brand/nehaluz-bistro-wordmark.webp",
+      "source": "WhatsApp Image 2026-10-27 at 12.56.30 (2).jpeg",
+      "originalSize": [
+        800,
+        214
+      ],
+      "size": [
+        800,
+        214
+      ],
+      "bytes": 29376,
+      "processing": "Exif orientation, proportional resize, WebP encoding only. No crop, retouch, recolor or generated pixels."
+    },
+    {
+      "file": "/brand/nehaluz-drink.webp",
+      "source": "WhatsApp Image 2026-10-27 at 12.56.30 (7).jpeg",
+      "originalSize": [
+        1293,
+        1600
+      ],
+      "size": [
+        1200,
+        1485
+      ],
+      "bytes": 78072,
+      "processing": "Exif orientation, proportional resize, WebP encoding only. No crop, retouch, recolor or generated pixels."
+    },
+    {
+      "file": "/brand/nehaluz-drink-alt.webp",
+      "source": "WhatsApp Image 2026-10-27 at 12.56.30 (8).jpeg",
+      "originalSize": [
+        1067,
+        1600
+      ],
+      "size": [
+        1000,
+        1500
+      ],
+      "bytes": 71528,
+      "processing": "Exif orientation, proportional resize, WebP encoding only. No crop, retouch, recolor or generated pixels."
+    },
+    {
+      "file": "/brand/motorcycle.webp",
+      "source": "WhatsApp Image 2026-10-27 at 12.56.30 (4).jpeg",
+      "originalSize": [
+        2048,
+        2048
+      ],
+      "size": [
+        1400,
+        1400
+      ],
+      "bytes": 215336,
+      "processing": "Exif orientation, proportional resize, WebP encoding only. No crop, retouch, recolor or generated pixels."
+    }
+  ],
+  "palette": {
+    "goldSample": "#cdaa51",
+    "redSample": "#ea1d25",
+    "note": "Median of colored interior pixels of supplied JPEG wordmark, approximate raster samples, not official brand-manual specifications."
+  }
+}

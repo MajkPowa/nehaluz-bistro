@@ -1,0 +1,475 @@
+{
+  "categories": [
+    {
+      "id": "burgery",
+      "name": "Smash burgery"
+    },
+    {
+      "id": "prilohy",
+      "name": "Prílohy a stripsy"
+    },
+    {
+      "id": "omacky",
+      "name": "Omáčky"
+    },
+    {
+      "id": "napoje",
+      "name": "Nápoje"
+    }
+  ],
+  "products": [
+    {
+      "id": "original-smash",
+      "name": "The Cheese Smash",
+      "description": "Maslová žemľa, Nehaluz remuláda, nakladaná uhorka, 70 g smash hovädzieho mäsa z Írska, mliečny cheddar, chrumkavá cibuľa a BBQ s americkou horčicou.",
+      "category": "burgery",
+      "price": 499,
+      "image": "/images/burger.webp",
+      "featured": true,
+      "optionGroups": [
+        {
+          "id": "size",
+          "name": "Verzia burgeru",
+          "required": true,
+          "maxSelections": 1,
+          "options": [
+            {
+              "id": "size-single",
+              "name": "S · Single",
+              "price": 0
+            },
+            {
+              "id": "size-double",
+              "name": "M · Double",
+              "price": 251
+            },
+            {
+              "id": "size-triple",
+              "name": "L · Triple",
+              "price": 451
+            },
+            {
+              "id": "size-chicken",
+              "name": "Kuracie · 150 g",
+              "price": 351
+            }
+          ]
+        }
+      ],
+      "available": true,
+      "allergens": [],
+      "allergensConfirmed": false,
+      "menuConfirmed": true,
+      "isIllustration": true
+    },
+    {
+      "id": "bacon-smash",
+      "name": "Baconator Smash",
+      "description": "Maslová žemľa, Nehaluz remuláda, nakladaná uhorka, 70 g smash hovädzieho mäsa z Írska, mliečny cheddar, prémiová slanina, chrumkavá cibuľa a slaninéza s americkou horčicou.",
+      "category": "burgery",
+      "price": 599,
+      "image": "/images/burger.webp",
+      "featured": true,
+      "optionGroups": [
+        {
+          "id": "size",
+          "name": "Verzia burgeru",
+          "required": true,
+          "maxSelections": 1,
+          "options": [
+            {
+              "id": "size-single",
+              "name": "S · Single",
+              "price": 0
+            },
+            {
+              "id": "size-double",
+              "name": "M · Double",
+              "price": 251
+            },
+            {
+              "id": "size-triple",
+              "name": "L · Triple",
+              "price": 451
+            },
+            {
+              "id": "size-chicken",
+              "name": "Kuracie · 150 g",
+              "price": 251
+            }
+          ]
+        }
+      ],
+      "available": true,
+      "allergens": [],
+      "allergensConfirmed": false,
+      "menuConfirmed": true,
+      "isIllustration": true
+    },
+    {
+      "id": "chilli-smash",
+      "name": "Smokey Hot Smash",
+      "description": "Maslová žemľa, pikantná salsa, jalapeño, 70 g smash hovädzieho mäsa z Írska, prémiová slanina, mliečny pepperjack, chrumkavá cibuľa a chipotle s americkou horčicou.",
+      "category": "burgery",
+      "price": 599,
+      "image": "/images/burger.webp",
+      "featured": false,
+      "optionGroups": [
+        {
+          "id": "size",
+          "name": "Verzia burgeru",
+          "required": true,
+          "maxSelections": 1,
+          "options": [
+            {
+              "id": "size-single",
+              "name": "S · Single",
+              "price": 0
+            },
+            {
+              "id": "size-double",
+              "name": "M · Double",
+              "price": 251
+            },
+            {
+              "id": "size-triple",
+              "name": "L · Triple",
+              "price": 451
+            },
+            {
+              "id": "size-chicken",
+              "name": "Kuracie · 150 g",
+              "price": 251
+            }
+          ]
+        }
+      ],
+      "available": true,
+      "allergens": [],
+      "allergensConfirmed": false,
+      "menuConfirmed": true,
+      "isIllustration": true
+    },
+    {
+      "id": "truffled-smash",
+      "name": "Truffled Smash",
+      "description": "Maslová žemľa, pečený cesnak, nakladaná uhorka, 70 g smash hovädzieho mäsa z Írska, pepperjack, prémiová slanina, chrumkavá cibuľa a hľuzovková majonéza s americkou horčicou.",
+      "category": "burgery",
+      "price": 599,
+      "image": "/images/burger.webp",
+      "featured": false,
+      "optionGroups": [
+        {
+          "id": "size",
+          "name": "Verzia burgeru",
+          "required": true,
+          "maxSelections": 1,
+          "options": [
+            {
+              "id": "size-single",
+              "name": "S · Single",
+              "price": 0
+            },
+            {
+              "id": "size-double",
+              "name": "M · Double",
+              "price": 251
+            },
+            {
+              "id": "size-triple",
+              "name": "L · Triple",
+              "price": 451
+            },
+            {
+              "id": "size-chicken",
+              "name": "Kuracie · 150 g",
+              "price": 251
+            }
+          ]
+        }
+      ],
+      "available": true,
+      "allergens": [],
+      "allergensConfirmed": false,
+      "menuConfirmed": true,
+      "isIllustration": true
+    },
+    {
+      "id": "zemiakove-vanicky",
+      "name": "Zemiakové vaničky",
+      "description": "250 g extra chrumkavých zemiakových vaničiek smažených na hovädzej masti.",
+      "category": "prilohy",
+      "price": 290,
+      "image": "/images/fries.webp",
+      "featured": false,
+      "available": true,
+      "allergens": [],
+      "allergensConfirmed": false,
+      "menuConfirmed": true,
+      "isIllustration": true,
+      "optionGroups": []
+    },
+    {
+      "id": "batatove-hranolky",
+      "name": "Batátové hranolky",
+      "description": "250 g batátových hranoliek smažených na hovädzej masti.",
+      "category": "prilohy",
+      "price": 490,
+      "image": "/images/fries.webp",
+      "featured": false,
+      "available": true,
+      "allergens": [],
+      "allergensConfirmed": false,
+      "menuConfirmed": true,
+      "isIllustration": true,
+      "optionGroups": []
+    },
+    {
+      "id": "strips-and-chips",
+      "name": "Strips & Chips",
+      "description": "150 g kuracích celosvalových stripsov v strúhanke, 200 g extra chrumkavých zemiakových vaničiek a dip podľa výberu.",
+      "category": "prilohy",
+      "price": 990,
+      "image": "/images/fries.webp",
+      "featured": false,
+      "optionGroups": [
+        {
+          "id": "dip",
+          "name": "Vyber si omáčku",
+          "required": true,
+          "maxSelections": 1,
+          "options": [
+            {
+              "id": "dip-bbq",
+              "name": "BBQ",
+              "price": 0
+            },
+            {
+              "id": "dip-ketchup",
+              "name": "Kečup",
+              "price": 0
+            },
+            {
+              "id": "dip-bacon",
+              "name": "Slaninéza",
+              "price": 0
+            },
+            {
+              "id": "dip-garlic",
+              "name": "Pečený cesnak",
+              "price": 0
+            },
+            {
+              "id": "dip-salsa",
+              "name": "Pikantná salsa",
+              "price": 0
+            },
+            {
+              "id": "dip-chipotle",
+              "name": "Chipotle",
+              "price": 0
+            },
+            {
+              "id": "dip-truffle",
+              "name": "Hľuzovka",
+              "price": 0
+            }
+          ]
+        }
+      ],
+      "available": true,
+      "allergens": [],
+      "allergensConfirmed": false,
+      "menuConfirmed": true,
+      "isIllustration": true
+    },
+    {
+      "id": "omacka",
+      "name": "Omáčka podľa výberu",
+      "description": "Vyber si BBQ, kečup, slaninézu, pečený cesnak, pikantnú salsu, chipotle alebo hľuzovku.",
+      "category": "omacky",
+      "price": 150,
+      "image": "/images/sauce.svg",
+      "featured": false,
+      "optionGroups": [
+        {
+          "id": "dip",
+          "name": "Vyber si omáčku",
+          "required": true,
+          "maxSelections": 1,
+          "options": [
+            {
+              "id": "dip-bbq",
+              "name": "BBQ",
+              "price": 0
+            },
+            {
+              "id": "dip-ketchup",
+              "name": "Kečup",
+              "price": 0
+            },
+            {
+              "id": "dip-bacon",
+              "name": "Slaninéza",
+              "price": 0
+            },
+            {
+              "id": "dip-garlic",
+              "name": "Pečený cesnak",
+              "price": 0
+            },
+            {
+              "id": "dip-salsa",
+              "name": "Pikantná salsa",
+              "price": 0
+            },
+            {
+              "id": "dip-chipotle",
+              "name": "Chipotle",
+              "price": 0
+            },
+            {
+              "id": "dip-truffle",
+              "name": "Hľuzovka",
+              "price": 0
+            }
+          ]
+        }
+      ],
+      "available": true,
+      "allergens": [],
+      "allergensConfirmed": false,
+      "menuConfirmed": true,
+      "isIllustration": true
+    },
+    {
+      "id": "relax-drink",
+      "name": "Relax drink",
+      "description": "Nápoj z aktuálnej ponuky bistra.",
+      "category": "napoje",
+      "price": 200,
+      "image": "/images/drink.svg",
+      "featured": false,
+      "available": true,
+      "allergens": [],
+      "allergensConfirmed": false,
+      "menuConfirmed": true,
+      "isIllustration": true,
+      "optionGroups": []
+    },
+    {
+      "id": "coca-cola-zero",
+      "name": "Coca-Cola Zero",
+      "description": "Coca-Cola bez cukru.",
+      "category": "napoje",
+      "price": 250,
+      "image": "/images/drink.svg",
+      "featured": false,
+      "available": true,
+      "allergens": [],
+      "allergensConfirmed": false,
+      "menuConfirmed": true,
+      "isIllustration": true,
+      "optionGroups": []
+    },
+    {
+      "id": "nehaluz-drink",
+      "name": "Nehaluz drink",
+      "description": "Nápoj Nehaluz podľa ponuky bistra.",
+      "category": "napoje",
+      "price": 290,
+      "image": "/brand/nehaluz-drink.webp",
+      "featured": true,
+      "isIllustration": false,
+      "available": true,
+      "allergens": [],
+      "allergensConfirmed": false,
+      "menuConfirmed": true,
+      "optionGroups": []
+    },
+    {
+      "id": "mineralka-neperliva",
+      "name": "Minerálka neperlivá",
+      "description": "Neperlivá minerálna voda.",
+      "category": "napoje",
+      "price": 220,
+      "image": "/images/drink.svg",
+      "featured": false,
+      "available": true,
+      "allergens": [],
+      "allergensConfirmed": false,
+      "menuConfirmed": true,
+      "isIllustration": true,
+      "optionGroups": []
+    },
+    {
+      "id": "mineralka-perliva",
+      "name": "Minerálka perlivá",
+      "description": "Perlivá minerálna voda.",
+      "category": "napoje",
+      "price": 220,
+      "image": "/images/drink.svg",
+      "featured": false,
+      "available": true,
+      "allergens": [],
+      "allergensConfirmed": false,
+      "menuConfirmed": true,
+      "isIllustration": true,
+      "optionGroups": []
+    }
+  ],
+  "settings": {
+    "demoMode": true,
+    "liveReady": false,
+    "orderingEnabled": true,
+    "menuConfirmed": true,
+    "businessName": "Nehaluz Bistro",
+    "city": "Blatné",
+    "address": "",
+    "phone": "+421 903 498 402",
+    "email": "",
+    "instagram": "https://www.instagram.com/nehaluzbistro/",
+    "announcement": "Ceny a zloženie podľa dodaného lístka. Objednávky sú ukážkové; alergény over u obsluhy.",
+    "pickupLeadMinutes": 25,
+    "slotMinutes": 15,
+    "slotCapacity": 8,
+    "timezone": "Europe/Bratislava",
+    "weeklyHours": {
+      "0": {
+        "open": "13:00",
+        "close": "22:00",
+        "closed": false
+      },
+      "1": {
+        "open": "13:00",
+        "close": "21:00",
+        "closed": true
+      },
+      "2": {
+        "open": "13:00",
+        "close": "21:00",
+        "closed": true
+      },
+      "3": {
+        "open": "13:00",
+        "close": "21:00",
+        "closed": true
+      },
+      "4": {
+        "open": "13:00",
+        "close": "22:00",
+        "closed": false
+      },
+      "5": {
+        "open": "13:00",
+        "close": "22:00",
+        "closed": false
+      },
+      "6": {
+        "open": "13:00",
+        "close": "22:00",
+        "closed": false
+      }
+    }
+  }
+}
