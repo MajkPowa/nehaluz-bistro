@@ -1,0 +1,5 @@
+Interface refinement workflow: unslop by Damir Sokolovsky (@heydamir).
+Source: https://github.com/heydamir/unslop/tree/main/skills/unslop
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+License: https://creativecommons.org/licenses/by/4.0/
+Adapted for Nehaluz Bistro: spacing, color, typography, copy, layout, details and motion.
