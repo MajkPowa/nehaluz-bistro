@@ -344,18 +344,57 @@
     },
     {
       "id": "relax-drink",
-      "name": "Relax drink",
-      "description": "Nápoj z aktuálnej ponuky bistra.",
+      "name": "Relax",
+      "description": "Ovocný nápoj Relax v sklenenej fľaši. Vyber si príchuť: kaktus, jablko, liči, multivitamín, jahoda alebo pomaranč.",
       "category": "napoje",
       "price": 200,
       "image": "/images/menu/relax-drink.webp",
       "featured": false,
+      "optionGroups": [
+        {
+          "id": "flavour",
+          "name": "Príchuť",
+          "required": true,
+          "maxSelections": 1,
+          "options": [
+            {
+              "id": "relax-kaktus",
+              "name": "Kaktus (jablko, limetka)",
+              "price": 0
+            },
+            {
+              "id": "relax-jablko",
+              "name": "Jablko 100 %",
+              "price": 0
+            },
+            {
+              "id": "relax-lici",
+              "name": "Liči (jablko, pomaranč)",
+              "price": 0
+            },
+            {
+              "id": "relax-multivitamin",
+              "name": "Multivitamín 100 %",
+              "price": 0
+            },
+            {
+              "id": "relax-jahoda",
+              "name": "Jahoda",
+              "price": 0
+            },
+            {
+              "id": "relax-pomaranc",
+              "name": "Pomaranč",
+              "price": 0
+            }
+          ]
+        }
+      ],
       "available": true,
       "allergens": [],
       "allergensConfirmed": false,
       "menuConfirmed": true,
-      "isIllustration": true,
-      "optionGroups": []
+      "isIllustration": true
     },
     {
       "id": "coca-cola-zero",
