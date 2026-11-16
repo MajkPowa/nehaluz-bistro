@@ -24,7 +24,7 @@
       "description": "Maslová žemľa, Nehaluz remuláda, nakladaná uhorka, 70 g smash hovädzieho mäsa z Írska, mliečny cheddar, chrumkavá cibuľa a BBQ s americkou horčicou.",
       "category": "burgery",
       "price": 499,
-      "image": "/images/burger.webp",
+      "image": "/images/menu/cheese-smash.webp",
       "featured": true,
       "optionGroups": [
         {
@@ -68,7 +68,7 @@
       "description": "Maslová žemľa, Nehaluz remuláda, nakladaná uhorka, 70 g smash hovädzieho mäsa z Írska, mliečny cheddar, prémiová slanina, chrumkavá cibuľa a slaninéza s americkou horčicou.",
       "category": "burgery",
       "price": 599,
-      "image": "/images/burger.webp",
+      "image": "/images/menu/bacon-smash.webp",
       "featured": true,
       "optionGroups": [
         {
@@ -112,7 +112,7 @@
       "description": "Maslová žemľa, pikantná salsa, jalapeño, 70 g smash hovädzieho mäsa z Írska, prémiová slanina, mliečny pepperjack, chrumkavá cibuľa a chipotle s americkou horčicou.",
       "category": "burgery",
       "price": 599,
-      "image": "/images/burger.webp",
+      "image": "/images/menu/bacon-smash.webp",
       "featured": false,
       "optionGroups": [
         {
@@ -156,7 +156,7 @@
       "description": "Maslová žemľa, pečený cesnak, nakladaná uhorka, 70 g smash hovädzieho mäsa z Írska, pepperjack, prémiová slanina, chrumkavá cibuľa a hľuzovková majonéza s americkou horčicou.",
       "category": "burgery",
       "price": 599,
-      "image": "/images/burger.webp",
+      "image": "/images/menu/bacon-smash.webp",
       "featured": false,
       "optionGroups": [
         {
@@ -200,7 +200,7 @@
       "description": "250 g extra chrumkavých zemiakových vaničiek smažených na hovädzej masti.",
       "category": "prilohy",
       "price": 290,
-      "image": "/images/fries.webp",
+      "image": "/images/menu/zemiakove-vanicky.webp",
       "featured": false,
       "available": true,
       "allergens": [],
@@ -215,7 +215,7 @@
       "description": "250 g batátových hranoliek smažených na hovädzej masti.",
       "category": "prilohy",
       "price": 490,
-      "image": "/images/fries.webp",
+      "image": "/images/menu/batatove-hranolky.webp",
       "featured": false,
       "available": true,
       "allergens": [],
@@ -348,7 +348,7 @@
       "description": "Nápoj z aktuálnej ponuky bistra.",
       "category": "napoje",
       "price": 200,
-      "image": "/images/drink.svg",
+      "image": "/images/menu/relax-drink.webp",
       "featured": false,
       "available": true,
       "allergens": [],
