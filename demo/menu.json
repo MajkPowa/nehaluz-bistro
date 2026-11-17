@@ -15,6 +15,10 @@
     {
       "id": "napoje",
       "name": "Nápoje"
+    },
+    {
+      "id": "capovane",
+      "name": "Čapované nápoje"
     }
   ],
   "products": [
@@ -487,6 +491,108 @@
       "menuConfirmed": true,
       "isIllustration": true,
       "optionGroups": []
+    },
+    {
+      "id": "bernard-11",
+      "name": "Bernard 11",
+      "description": "Čapované pivo. Alkohol predávame len osobám starším ako 18 rokov.",
+      "category": "capovane",
+      "price": 170,
+      "image": "/images/drink.svg",
+      "featured": false,
+      "optionGroups": [
+        {
+          "id": "volume",
+          "name": "Veľkosť",
+          "required": true,
+          "maxSelections": 1,
+          "options": [
+            {
+              "id": "volume-small",
+              "name": "Malé",
+              "price": 0
+            },
+            {
+              "id": "volume-large",
+              "name": "Veľké",
+              "price": 80
+            }
+          ]
+        }
+      ],
+      "available": true,
+      "allergens": [],
+      "allergensConfirmed": false,
+      "menuConfirmed": true,
+      "isIllustration": true
+    },
+    {
+      "id": "bernard-nealko-grep",
+      "name": "Bernard nealko grep",
+      "description": "Čapovaný nealkoholický Bernard s grepom.",
+      "category": "capovane",
+      "price": 170,
+      "image": "/images/drink.svg",
+      "featured": false,
+      "optionGroups": [
+        {
+          "id": "volume",
+          "name": "Veľkosť",
+          "required": true,
+          "maxSelections": 1,
+          "options": [
+            {
+              "id": "volume-small",
+              "name": "Malé",
+              "price": 0
+            },
+            {
+              "id": "volume-large",
+              "name": "Veľké",
+              "price": 80
+            }
+          ]
+        }
+      ],
+      "available": true,
+      "allergens": [],
+      "allergensConfirmed": false,
+      "menuConfirmed": true,
+      "isIllustration": true
+    },
+    {
+      "id": "kofola-original",
+      "name": "Kofola Original",
+      "description": "Čapovaná Kofola Original.",
+      "category": "capovane",
+      "price": 160,
+      "image": "/images/drink.svg",
+      "featured": false,
+      "optionGroups": [
+        {
+          "id": "volume",
+          "name": "Veľkosť",
+          "required": true,
+          "maxSelections": 1,
+          "options": [
+            {
+              "id": "volume-small",
+              "name": "Malá",
+              "price": 0
+            },
+            {
+              "id": "volume-large",
+              "name": "Veľká",
+              "price": 90
+            }
+          ]
+        }
+      ],
+      "available": true,
+      "allergens": [],
+      "allergensConfirmed": false,
+      "menuConfirmed": true,
+      "isIllustration": true
     }
   ],
   "settings": {
