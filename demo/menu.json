@@ -493,6 +493,35 @@
       "optionGroups": []
     },
     {
+      "id": "espresso",
+      "name": "Espresso",
+      "description": "Espresso. Mlieko do kávy za príplatok.",
+      "category": "napoje",
+      "price": 250,
+      "image": "/images/drink.svg",
+      "featured": false,
+      "optionGroups": [
+        {
+          "id": "milk",
+          "name": "Mlieko do kávy",
+          "required": false,
+          "maxSelections": 1,
+          "options": [
+            {
+              "id": "espresso-milk",
+              "name": "S mliekom",
+              "price": 50
+            }
+          ]
+        }
+      ],
+      "available": true,
+      "allergens": [],
+      "allergensConfirmed": false,
+      "menuConfirmed": true,
+      "isIllustration": true
+    },
+    {
       "id": "bernard-11",
       "name": "Bernard 11",
       "description": "Čapované pivo. Alkohol predávame len osobám starším ako 18 rokov.",
