@@ -1,4 +1,5 @@
 {
+  "version": "74d3cbbce203",
   "categories": [
     {
       "id": "burgery",
@@ -640,6 +641,26 @@
     "companySeat": "Ulica Mikovíniho 9548/19, 917 01 Trnava",
     "instagram": "https://www.instagram.com/nehaluzbistro/",
     "announcement": "Ceny, zloženie a alergény jedál sú podľa podkladov bistra.",
+    "deliveryEnabled": true,
+    "deliveryFee": 300,
+    "deliveryMinimum": 1000,
+    "deliveryPlaces": [
+      "Kaplna",
+      "Čataj",
+      "Igram",
+      "Báhoň",
+      "Senec",
+      "Šenkvice",
+      "Jablonec",
+      "Vištuk",
+      "Boldog",
+      "Veľký Grob",
+      "Cífer",
+      "Reca",
+      "Slovenská Nová Ves",
+      "Viničné",
+      "Veľký Biel"
+    ],
     "pickupLeadMinutes": 25,
     "slotMinutes": 15,
     "slotCapacity": 8,
