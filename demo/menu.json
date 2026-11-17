@@ -57,8 +57,12 @@
         }
       ],
       "available": true,
-      "allergens": [],
-      "allergensConfirmed": false,
+      "allergens": [
+        1,
+        3,
+        7
+      ],
+      "allergensConfirmed": true,
       "menuConfirmed": true,
       "isIllustration": true
     },
@@ -101,8 +105,12 @@
         }
       ],
       "available": true,
-      "allergens": [],
-      "allergensConfirmed": false,
+      "allergens": [
+        1,
+        3,
+        7
+      ],
+      "allergensConfirmed": true,
       "menuConfirmed": true,
       "isIllustration": true
     },
@@ -145,8 +153,12 @@
         }
       ],
       "available": true,
-      "allergens": [],
-      "allergensConfirmed": false,
+      "allergens": [
+        1,
+        3,
+        7
+      ],
+      "allergensConfirmed": true,
       "menuConfirmed": true,
       "isIllustration": true
     },
@@ -189,8 +201,12 @@
         }
       ],
       "available": true,
-      "allergens": [],
-      "allergensConfirmed": false,
+      "allergens": [
+        1,
+        3,
+        7
+      ],
+      "allergensConfirmed": true,
       "menuConfirmed": true,
       "isIllustration": true
     },
@@ -203,8 +219,12 @@
       "image": "/images/menu/zemiakove-vanicky.webp",
       "featured": false,
       "available": true,
-      "allergens": [],
-      "allergensConfirmed": false,
+      "allergens": [
+        1,
+        3,
+        7
+      ],
+      "allergensConfirmed": true,
       "menuConfirmed": true,
       "isIllustration": true,
       "optionGroups": []
@@ -218,8 +238,12 @@
       "image": "/images/menu/batatove-hranolky.webp",
       "featured": false,
       "available": true,
-      "allergens": [],
-      "allergensConfirmed": false,
+      "allergens": [
+        1,
+        3,
+        7
+      ],
+      "allergensConfirmed": true,
       "menuConfirmed": true,
       "isIllustration": true,
       "optionGroups": []
@@ -278,8 +302,12 @@
         }
       ],
       "available": true,
-      "allergens": [],
-      "allergensConfirmed": false,
+      "allergens": [
+        1,
+        3,
+        7
+      ],
+      "allergensConfirmed": true,
       "menuConfirmed": true,
       "isIllustration": true
     },
@@ -337,8 +365,12 @@
         }
       ],
       "available": true,
-      "allergens": [],
-      "allergensConfirmed": false,
+      "allergens": [
+        1,
+        3,
+        7
+      ],
+      "allergensConfirmed": true,
       "menuConfirmed": true,
       "isIllustration": true
     },
@@ -399,7 +431,7 @@
     {
       "id": "coca-cola-zero",
       "name": "Coca-Cola Zero",
-      "description": "Coca-Cola bez cukru.",
+      "description": "Coca-Cola bez cukru, 0,33 l.",
       "category": "napoje",
       "price": 250,
       "image": "/images/drink.svg",
@@ -464,11 +496,15 @@
     "menuConfirmed": true,
     "businessName": "Nehaluz Bistro",
     "city": "Blatné",
-    "address": "",
+    "address": "Bratislavská 2001, 900 82 Blatné",
     "phone": "+421 903 498 402",
-    "email": "",
+    "email": "adamcikalex1@gmail.com",
+    "companyName": "NEHALUZ s. r. o.",
+    "companyIco": "55605591",
+    "companyDic": "2122035949",
+    "companySeat": "Ulica Mikovíniho 9548/19, 917 01 Trnava",
     "instagram": "https://www.instagram.com/nehaluzbistro/",
-    "announcement": "Ceny a zloženie podľa dodaného lístka. Objednávky sú ukážkové; alergény over u obsluhy.",
+    "announcement": "Ceny, zloženie a alergény jedál sú podľa podkladov bistra.",
     "pickupLeadMinutes": 25,
     "slotMinutes": 15,
     "slotCapacity": 8,
@@ -496,7 +532,7 @@
       },
       "4": {
         "open": "13:00",
-        "close": "22:00",
+        "close": "21:00",
         "closed": false
       },
       "5": {
